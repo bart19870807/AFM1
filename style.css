@@ -1,0 +1,14 @@
+body{
+    background-color: :green;
+}
+p{
+    font-size: 2rem;
+    font-weight: bold;
+    color: red;
+    border: 2px solid pink;
+}
+
+ul li{
+    background-color: lime;
+    text-transform: uppercase;
+}
