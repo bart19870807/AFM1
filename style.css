@@ -12,3 +12,8 @@ ul li{
     background-color: lime;
     text-transform: uppercase;
 }
+.added{
+    background-color: aqua;
+    width: 4rem;
+    height: 20rem;
+}
